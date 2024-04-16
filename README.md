@@ -1,8 +1,8 @@
 # Data Transaction Time-Stamp Ordering Protocol Implementation
 JavaScript/Nodejs implementation of Database Transaction Time-Stamp Ordering Protocol
 
-## QUESTION
-**Write, in any programming language. Rge following algorithm for the time-stamp ordering protocol**
+## The Algorithm
+**The following is the algorithm for the time-stamp ordering protocol**
 
 	The timestamp of transaction  Ti is denoted as TS(Ti)
 	Read time-stamp of data-item X is denoted by R-timestamp(X)
