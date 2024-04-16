@@ -1,4 +1,4 @@
-# Data Transaction Time-Stamp Ordering Protocol Implementation
+# Database Transaction Time-Stamp Ordering Protocol Implementation
 JavaScript/Nodejs implementation of Database Transaction Time-Stamp Ordering Protocol
 
 ## The Algorithm
